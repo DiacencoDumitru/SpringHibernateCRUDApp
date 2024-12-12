@@ -83,7 +83,7 @@
             <version>42.2.18</version>
         </dependency>
 
-        <!--ORM Related dependencies -->
+        <!--ORM Зависимости -->
 
         <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
         <dependency>
